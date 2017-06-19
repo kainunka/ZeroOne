@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZeroOne</string>
+    <string name="fb_app_id">277565905991180</string>
+    <string name="fb_login_protocol_scheme">fb277565905991180</string>
+</resources>
